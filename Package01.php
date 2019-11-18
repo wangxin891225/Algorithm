@@ -1,7 +1,7 @@
 <?php
 /**
  * 01背包问题
- * User: songjq
+ * User: wangx
  * Date: 2019/11/8
  * Time: 10:19
  */

@@ -1,7 +1,7 @@
 <?php
 /**
  * 链表队列
- * User: songjq
+ * User: wangx
  * Date: 2019/11/1
  * Time: 16:24
  */

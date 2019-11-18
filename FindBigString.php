@@ -1,7 +1,7 @@
 <?php
 /**
  * 找出最大不重复字符串
- * User: songjq
+ * User: wangx
  * Date: 2019/11/7
  * Time: 10:33
  */

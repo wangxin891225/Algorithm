@@ -1,7 +1,7 @@
 <?php
 /**
  * 快速排序
- * User: songjq
+ * User: wangx
  * Date: 2019/11/8
  * Time: 09:26
  */

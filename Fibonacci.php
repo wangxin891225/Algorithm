@@ -1,7 +1,7 @@
 <?php
 /**
  * 斐波那契数列 1,1,2,3,5,8...
- * User: songjq
+ * User: wangx
  * Date: 2019/11/8
  * Time: 14:35
  */

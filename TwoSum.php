@@ -1,7 +1,7 @@
 <?php
 /**
  * 找出和为给定值的两个数
- * User: songjq
+ * User: wangx
  * Date: 2019/11/7
  * Time: 11:16
  */

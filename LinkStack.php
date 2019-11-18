@@ -1,7 +1,7 @@
 <?php
 /**
  * 链表实现栈
- * User: songjq
+ * User: wangx
  * Date: 2019/11/1
  * Time: 16:06
  */
